@@ -1,5 +1,7 @@
 .vscode/
-main
 
 # Ignore .sh folder
 sh/
+
+*.code-workspace
+

@@ -19,4 +19,3 @@ The script will submit all tests (sieve0 to sieve3) to SLURM. If you want to tes
 
 You can find your execution results in .o files under the sh directory.
 
-
